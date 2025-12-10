@@ -8,4 +8,3 @@ shellcheck --shell=bash --external-sources \
 shfmt --language-dialect bash --diff \
 	setup.bash \
 	scripts/*
-
